@@ -21,5 +21,9 @@ sudo python3 -m pip install --upgrade pip
 sudo python3 -m pip install spython
 ~~~~
 
-## Pull the required images
+## Run the testcase
+~~~~
+python3 run_su2.py
+~~~~
+
 
